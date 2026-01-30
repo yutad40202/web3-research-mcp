@@ -19,3 +19,4 @@ export const VERSION = "0.1.0";
 // drop an unused branch
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// clarify the control flow
