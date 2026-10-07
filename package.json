@@ -1,6 +1,6 @@
 {
   "name": "web3-research-mcp",
-  "version": "0.1.40",
+  "version": "0.1.41",
   "description": "Local MCP server for deep crypto token research across CoinGecko, DeFiLlama and web search. Free, no API key.",
   "main": "src/index.ts",
   "scripts": {
